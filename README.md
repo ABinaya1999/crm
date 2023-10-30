@@ -1,2 +1,2 @@
 # crm
-This is repo for customer relational management system.
+This is a repo for customer relational management system.
